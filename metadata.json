@@ -1,0 +1,8 @@
+{
+  "name": "Bio-Gesture VR",
+  "description": "An interactive, no-touch molecular visualization engine powered by Gemini and Computer Vision.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
