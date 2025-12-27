@@ -1,7 +1,7 @@
 # Bio-Gesture VR 🧬✋
 
 > **"Minority Report" for Molecular Biology.**  
-> An interactive, no-touch molecular visualization engine powered by **Three.js**, **MediaPipe**, and **Google Gemini AI**.
+> An interactive, no-touch molecular visualization engine powered by **Three.js** & **MediaPipe**.
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![React](https://img.shields.io/badge/React-19-cyan)
